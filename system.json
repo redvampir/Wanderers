@@ -1,0 +1,30 @@
+{
+    "id": "Wanderers",
+    "title": "Странники",
+    "description": "Роливая игра на основе кости D20. Без классовая система.",
+    "version": "0.0.1",
+    "compatibility": {
+        "minimum": 13.342,
+        "verified": 12.342
+    },
+    "authors": [{
+        "name": "Павел Кроворов",
+        "url": "_",
+        "email": "pavelkrovorov@gmail.com",
+        "discord": "_"
+    }],
+    "esmodules": ["wanderers.mjs"],
+    "styles": ["styles/system-styles.css"],
+    "packs":[{}],
+    "languages": [{
+        "lang": "en",
+        "name": "English",
+        "path": "lang/en.json"
+    },
+    {
+        "lang": "ru",
+        "name": "Русский язык",
+        "path": "lang/ru.json"
+    }]
+
+}
